@@ -1,0 +1,5 @@
+environs~=9.0
+psycopg2~=2.9.9
+pandas~=2.2.2
+aiogram~=3.10.0
+aioredis<2.0
